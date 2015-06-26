@@ -30,3 +30,13 @@
 
 # Debug files
 *.dSYM/
+
+#
+tags
+TAGS
+
+#
+*.jpg
+*.gif
+*.png
+*.bmp
